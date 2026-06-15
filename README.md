@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://community-cdn.topazlabs.com/original/3X/2/4/24164a3d0dff2d0d7a56e15e327b3a0e90e1fa87.jpeg" alt="Topaz Photo AI — macOS AI photo enhancement screenshot" width="780"/>
+  <img src="https://img.utdstc.com/screen/e36/fa3/e36fa3c38c87240c30896fadf4eb179a32113585e2962df85abe8ba69f06da5f:600" alt="Topaz Photo AI — macOS AI photo enhancement screenshot" width="780"/>
 </p>
 
 ---
